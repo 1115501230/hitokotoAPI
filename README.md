@@ -8,3 +8,5 @@ api放好 然后在网站内插入代码即可（填入你的网站地址）
 我的为
   <script type="text/javascript" src="http://host388236.dns.9yyx.pw/api/?format=js&charset=utf-8"></script>
   <div id="hitokoto"><script>hitokoto()</script></div>
+  
+  可以在各种博客网站各种语言里融会贯通
